@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class matrizNotas {
 
-  
+  /* Elaborar um programa em Java que crie uma matriz 5x4 onde serão armazenadas notas (valoresreais) digitados pelo usuário. Depois, exibir a matriz, verificar quantas notas são maiores ou igual a 7, o que refere-se aos alunos aprovados, e quantas são menores que 7. então exibir na tela quantos alunos estão aprovados e quantos estão reprovados.  */
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
         int aprovados = 0;
